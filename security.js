@@ -13,4 +13,4 @@ if (prompt(securityQuestions.question[0]) === securityQuestions.expectedAnswer[0
     }
 } else { 
     alert("wrong answer"); 
-}
+} 
